@@ -1,4 +1,4 @@
-# 🧠🎨 **WanderInk Studio — Doodle to Realistic Art Powered by AI**
+# 🧠🎨 **Wanderlink Studio — Doodle to Realistic Art Powered by AI**
 
 Welcome to **Drawn2Life**, a cutting-edge AI-powered web application that transforms your rough sketches into stunning digital artworks in just a few clicks!
 
